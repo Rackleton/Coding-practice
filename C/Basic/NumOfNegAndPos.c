@@ -1,5 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+/*
+The goal of this exercise is to create a program where the user inputs 5 integers, and the computer prints the amount of these numbers that are positives, negatives and 0's.
+
+This exercise was taken from the youtube channel "programe seu futuro" exercise sheet on his c coding course lesson 53.
+
+subject to changes.
+*/
 int main() {
  
  
