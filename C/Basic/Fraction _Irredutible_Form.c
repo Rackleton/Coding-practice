@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+The goal of this code is to read 2 integers in the form of a fraction "a/b" and write the irredutible form of it using prime numbers to cancel out the factors.
+This exercise was taken from my own head to improve my skills with loops.
+
+Subject to changes.
+*/
 
 int prime(int x){
   int b=1;
